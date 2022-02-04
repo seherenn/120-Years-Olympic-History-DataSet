@@ -1,2 +1,2 @@
-# 120-years-olimpic-history
-120 years olimpic history data set analysis with python
+# 120-years-olympic-history
+120 years olympic history data set analysis with python
